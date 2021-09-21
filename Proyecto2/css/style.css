@@ -1,0 +1,135 @@
+#encabezado { 
+    
+    height: 60px;
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    font-size: 250%;
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+}
+#encabezado1{
+    height: 40px;
+    width: 100%;
+    margin: auto;
+   
+    font-size: 220%;
+}
+
+nav ul {
+    list-style-type: none;  
+    padding: 0;
+    margin-left: auto;
+    height: 40px;
+    width: 70%;
+   
+}
+nav li{
+    line-height: 3rem;
+}
+nav ul  ul{
+    display: none;
+}
+nav ul> li{
+    float: left;
+}
+nav a {
+    color: rgb(10, 10, 10)59, 54, 54);
+    display: block;
+    padding: 0 2.5em;
+    text-decoration: none;
+    transition: .30s;
+
+}
+nav a:hover{
+    background: rgba(0,0,0,.5) ;
+}
+nav li:hover ul{
+display: block;
+}
+#datos {
+    width: 80%;
+    font-size: 50%;
+    height: 800px;
+    margin: auto;
+  
+    padding: 10px;
+    font-family: 'segoe UI', Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+#datos2{
+    width: 80%;
+        font-size: 50%;
+        height: 450px;
+        margin: auto;
+        padding: 10px;
+        font-family: 'segoe UI', Arial, Helvetica, sans-serif;
+        font-size: 100%;
+    
+}
+#datos3{
+    width: 80%;
+        font-size: 50%;
+        height: 450px;
+        margin: auto;
+        padding: 10px;
+        font-family: 'segoe UI', Arial, Helvetica, sans-serif;
+        font-size: 100%;
+    
+}  
+
+#tabla{
+    
+    height: 150px;
+    width: 200%;
+    margin: auto;
+   font-size: 220%;
+    width: 30%;
+    text-align: center;
+}
+td {
+    width: 300px; /*Aquí va el ancho de la Celda*/
+    height: 200px; /*Aquí el Alto*/
+    }
+    .fcc-btn {
+        background-color: #fdff79;
+        color: black;
+        padding: 5px 20px;
+        text-decoration: none;
+      }
+
+#cuerpo{
+    width: 80%;
+    font-size: 50%;
+    height: 600px;
+    margin: auto;
+  
+    padding: 10px;
+    font-family: 'segoe UI', Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}   
+#cuerpo1{
+    width: 100%;
+    font-size: 50%;
+    height: 450px;
+    margin: auto;
+    background-color: #111d57;
+    padding: 10px;
+    font-family: 'segoe UI', Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}   
+#cuerpo2{
+    width: 70%;
+    font-size: 50%;
+    height: 450px;
+  
+    text-align:left;
+    background-color: #111d57;
+    padding: 10px;
+    font-family: 'segoe UI', Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}   
+
+
+ 
+ 
